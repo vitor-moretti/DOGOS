@@ -1,0 +1,25 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+main img{
+    width: 50%;
+    height: auto;
+}
+
+.cachorro{
+    display: flex;
+    justify-content: left;
+
+    border-top: 20px solid rgb(23, 83, 23);
+    background-color: rgb(97, 187, 97);
+}
+
+.gato{
+    display: flex;
+    justify-content: right;
+    
+    border-top: 20px solid rgb(23, 83, 23);
+    background-color: rgb(97, 187, 97);
+}
