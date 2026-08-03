@@ -8,6 +8,13 @@ main img{
     height: auto;
 }
 
+/*DOGOS*/
+
+.dogos h2{
+    display: flex;
+    font-size: 50px;
+}
+
 .cachorro{
     display: flex;
     justify-content: left;
@@ -15,6 +22,8 @@ main img{
     border-top: 20px solid rgb(23, 83, 23);
     background-color: rgb(97, 187, 97);
 }
+
+/*CATOS*/
 
 .gato{
     display: flex;
